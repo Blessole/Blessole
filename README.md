@@ -11,6 +11,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87C7FF&height=150&section=header&text=%20&fontColor=ffffff&fontAlign=81&fontAlignY=38&fontSize=60" />
 <h1>Hello, I'm Sol 🌲</h1>
 
+![KakaoTalk_20220719_145246768](https://user-images.githubusercontent.com/101856058/179705838-fec005aa-af82-4638-9846-9e88121ee48d.gif)
+![KakaoTalk_20220719_145246768_02](https://user-images.githubusercontent.com/101856058/179705856-23e5d29c-6dfd-46d8-9335-a097dccdc2d9.gif)
+
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><br/>
