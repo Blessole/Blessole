@@ -16,7 +16,7 @@
 
 
 <h3>🛠 Tech Stack 🛠</h3>
-<p>🌞Used as the main tech</p>
+<p>🌞Used as a main tech</p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br/>
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/><br/>
 <br>
 
-<p>🌙Used on a personal project at least once</p>
+<p>🌙Used at least once in a personal project </p>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/><br/>
