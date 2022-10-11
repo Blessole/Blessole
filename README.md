@@ -47,7 +47,7 @@
 
 <h3>☁ My SNS / Contact Me ☁</h3>
 <a href="mailto:sorihs1210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=sorihs1210@gmail.com"/></a>&nbsp;
-<a href="https://blog.naver.com/sorihs1210"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://www.blog.naver.com/sorihs1210"/></a>
+<a href="https://velog.io/@blessole"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@blessole"/></a>
 <a href="https://haerang1210.notion.site/bd474e2b388a41f19320e58ff6d56fa5"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://haerang1210.notion.site/bd474e2b388a41f19320e58ff6d56fa5"/><br/>
 <br><br>
 
