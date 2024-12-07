@@ -1,0 +1,17 @@
+{
+  "name": "blessole",
+  "version": "1.0.0",
+  "description": "<!--\r - 🔭 I’m currently working on ...\r - 🌱 I’m currently learning ...\r - 🤔 I’m looking for help with ...\r - 💬 Ask me about ...\r - 📫 How to reach me: ...\r - 😄 Pronouns: ...\r - ⚡ Fun fact: ...\r -->\r <div align=\"center\">\r <img src=\"https://capsule-render.vercel.app/api?type=waving&color=87C7FF&height=150&section=header&text=%20&fontColor=ffffff&fontAlign=81&fontAlignY=38&fontSize=60\" />\r <h1>Hello, I'm Sol 🌲</h1>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
