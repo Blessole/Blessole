@@ -1,12 +1,4 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87C7FF&height=150&section=header&text=%20&fontColor=ffffff&fontAlign=81&fontAlignY=38&fontSize=60" />
 <h1>Hello, I'm Sol 🌲</h1>
@@ -50,8 +42,13 @@
 <a href="https://velog.io/@blessole"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@blessole"/></a>
 <a href="https://haerang1210.notion.site/bd474e2b388a41f19320e58ff6d56fa5"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://haerang1210.notion.site/Kim-Sol-65fe13dbcbe143f6bd36986b625d9aa0"/><br/>
 <br><br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessole&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlessole&count_bg=%2387C7FF&title_bg=%23929292&icon=shell.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Blessole)
-</div>
+<h3>📕 Latest Blog Posts</h3>
+<ul>
+<li><a href="https://systorage.tistory.com/entry/Kubernetes-Pod-%EA%B8%B0%EC%B4%88-2" target="_blank">[Kubernetes] Pod 기초 - 2</a></li><li><a href="https://systorage.tistory.com/entry/Kubernetes-Pod-%EA%B8%B0%EC%B4%88-1" target="_blank">[Kubernetes] Pod 기초 - 1</a></li><li><a href="https://systorage.tistory.com/entry/Kubernetes-Cluster-%ED%95%99%EC%8A%B5" target="_blank">[Kubernetes] Cluster 학습</a></li><li><a href="https://systorage.tistory.com/entry/Nodejs-3%EB%85%84%EC%B0%A8-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC" target="_blank">[Node.js] 3년차 백엔드 면접 질문 정리</a></li><li><a href="https://systorage.tistory.com/entry/%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EB%B2%84%ED%8D%BCprotobuf%EB%9E%80" target="_blank">프로토콜 버퍼(protobuf)란?</a></li>
+        </ul>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessole&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+        
+        [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlessole&count_bg=%2387C7FF&title_bg=%23929292&icon=shell.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Blessole)
+        </div>
+    
