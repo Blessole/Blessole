@@ -28,27 +28,27 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/><br/>
 <br><br>
 
+<h3>✨ DevOps ✨</h3>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<br/>
+
 <h3>✨ Cowork Tools / IDE ✨</h3>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <br/>
 <br><br>
 
 <h3>☁ My SNS / Contact Me ☁</h3>
 <a href="mailto:sorihs1210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=sorihs1210@gmail.com"/></a>&nbsp;
-<a href="https://velog.io/@blessole"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@blessole"/></a>
+<a href="https://rlathfs.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF7F00?style=flat-square&logo=Tistory&logoColor=white&link=https://rlathfs.tistory.com"/></a>
 <a href="https://haerang1210.notion.site/bd474e2b388a41f19320e58ff6d56fa5"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://haerang1210.notion.site/Kim-Sol-65fe13dbcbe143f6bd36986b625d9aa0"/><br/>
 <br><br>
 
 <h3>📕 Latest Blog Posts</h3>
 <ul>
-<li><a href="https://systorage.tistory.com/entry/Kubernetes-Pod-%EA%B8%B0%EC%B4%88-2" target="_blank">[Kubernetes] Pod 기초 - 2</a></li><li><a href="https://systorage.tistory.com/entry/Kubernetes-Pod-%EA%B8%B0%EC%B4%88-1" target="_blank">[Kubernetes] Pod 기초 - 1</a></li><li><a href="https://systorage.tistory.com/entry/Kubernetes-Cluster-%ED%95%99%EC%8A%B5" target="_blank">[Kubernetes] Cluster 학습</a></li><li><a href="https://systorage.tistory.com/entry/Nodejs-3%EB%85%84%EC%B0%A8-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC" target="_blank">[Node.js] 3년차 백엔드 면접 질문 정리</a></li><li><a href="https://systorage.tistory.com/entry/%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EB%B2%84%ED%8D%BCprotobuf%EB%9E%80" target="_blank">프로토콜 버퍼(protobuf)란?</a></li>
+<li><a href="https://rlathfs.tistory.com/20" target="_blank">[Git] Commit 메시지 수정하기</a></li><li><a href="https://rlathfs.tistory.com/19" target="_blank">[Java] Char 문자를 숫자로 변환하는 방법 (CHAR - '0' 이 뭘까?)</a></li><li><a href="https://rlathfs.tistory.com/18" target="_blank">[Vue] Lazy Loading 무한스크롤 구현하기 (Intersection Observer)</a></li><li><a href="https://rlathfs.tistory.com/17" target="_blank">[Git] fatal: bad revision 오류 원인 및 해결법 (feat. cherry-pick)</a></li><li><a href="https://rlathfs.tistory.com/14" target="_blank">[Git] remote: Support for password authentication was removed. Please use a personal access token instead. 에러 해결</a></li>
         </ul>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessole&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-        
-        [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlessole&count_bg=%2387C7FF&title_bg=%23929292&icon=shell.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Blessole)
         </div>
     
