@@ -13,14 +13,17 @@ let text = `
 ![KakaoTalk_20220719_145246768](https://user-images.githubusercontent.com/101856058/179705838-fec005aa-af82-4638-9846-9e88121ee48d.gif)
 ![KakaoTalk_20220719_145246768_02](https://user-images.githubusercontent.com/101856058/179705856-23e5d29c-6dfd-46d8-9335-a097dccdc2d9.gif)
 
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/Blessole}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Blessole)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessole&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>🛠 Tech Stack 🛠</h3>
 <p>🌞 Used as a main tech</p>
 <div>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 </div>
@@ -36,9 +39,9 @@ let text = `
 <br><br>
 
 <h3>✨ DevOps ✨</h3>
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=GitLab&logoColor=white"/>
 <br/>
 
 <h3>✨ Cowork Tools / IDE ✨</h3>
