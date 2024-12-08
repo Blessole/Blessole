@@ -35,18 +35,21 @@ let text = `
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/><br/>
 <br><br>
 
+<h3>✨ DevOps ✨</h3>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<br/>
+
 <h3>✨ Cowork Tools / IDE ✨</h3>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <br/>
 <br><br>
 
 <h3>☁ My SNS / Contact Me ☁</h3>
 <a href="mailto:sorihs1210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=sorihs1210@gmail.com"/></a>&nbsp;
-<a href="https://velog.io/@blessole"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@blessole"/></a>
+<a href="https://rlathfs.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF7F00?style=flat-square&logo=Tistory&logoColor=white&link=https://rlathfs.tistory.com"/></a>
 <a href="https://haerang1210.notion.site/bd474e2b388a41f19320e58ff6d56fa5"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://haerang1210.notion.site/Kim-Sol-65fe13dbcbe143f6bd36986b625d9aa0"/><br/>
 <br><br>
 
@@ -63,7 +66,7 @@ const parser = new Parser({
 (async () => {
 
     // 피드 목록
-    const feed = await parser.parseURL('https://systorage.tistory.com/rss');
+    const feed = await parser.parseURL('https://rlathfs.tistory.com/rss');
 
     // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
     for (let i = 0; i < 5; i++) {
@@ -76,9 +79,6 @@ const parser = new Parser({
 
     text += `
         </ul>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessole&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-        
-        [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlessole&count_bg=%2387C7FF&title_bg=%23929292&icon=shell.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Blessole)
         </div>
     `;
 
