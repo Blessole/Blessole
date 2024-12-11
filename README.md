@@ -51,7 +51,7 @@
 
 <h3>📕 Latest Blog Posts</h3>
 <ul>
-<li><a href="https://rlathfs.tistory.com/21" target="_blank">[PostgreSQL] Window에 PostgreSQL &amp; pgAdmin 4 설치하기</a></li><li><a href="https://rlathfs.tistory.com/20" target="_blank">[Git] Commit 메시지 수정하기</a></li><li><a href="https://rlathfs.tistory.com/19" target="_blank">[Java] Char 문자를 숫자로 변환하는 방법 (CHAR - '0' 이 뭘까?)</a></li><li><a href="https://rlathfs.tistory.com/18" target="_blank">[Vue] Lazy Loading 무한스크롤 구현하기 (Intersection Observer)</a></li><li><a href="https://rlathfs.tistory.com/17" target="_blank">[Git] fatal: bad revision 오류 원인 및 해결법 (feat. cherry-pick)</a></li>
+<li><a href="https://rlathfs.tistory.com/22" target="_blank">[Git] IntelliJ에서 생성한 프로젝트 Github에 연결하기</a></li><li><a href="https://rlathfs.tistory.com/21" target="_blank">[PostgreSQL] Window에 PostgreSQL &amp; pgAdmin 4 설치하기</a></li><li><a href="https://rlathfs.tistory.com/20" target="_blank">[Git] Commit 메시지 수정하기</a></li><li><a href="https://rlathfs.tistory.com/19" target="_blank">[Java] Char 문자를 숫자로 변환하는 방법 (CHAR - '0' 이 뭘까?)</a></li><li><a href="https://rlathfs.tistory.com/18" target="_blank">[Vue] Lazy Loading 무한스크롤 구현하기 (Intersection Observer)</a></li>
         </ul>
         </div>
     
