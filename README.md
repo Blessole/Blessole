@@ -51,7 +51,7 @@
 
 <h3>📕 Latest Blog Posts</h3>
 <ul>
-<li><a href="https://rlathfs.tistory.com/23" target="_blank">[Git] 이미 Push한 Commit 삭제하기</a></li><li><a href="https://rlathfs.tistory.com/22" target="_blank">[Git] IntelliJ에서 생성한 프로젝트 Github에 연결하기</a></li><li><a href="https://rlathfs.tistory.com/21" target="_blank">[PostgreSQL] Window에 PostgreSQL &amp; pgAdmin 4 설치하기</a></li><li><a href="https://rlathfs.tistory.com/20" target="_blank">[Git] Commit 메시지 수정하기</a></li><li><a href="https://rlathfs.tistory.com/19" target="_blank">[Java] Char 문자를 숫자로 변환하는 방법 (CHAR - '0' 이 뭘까?)</a></li>
+<li><a href="https://rlathfs.tistory.com/24" target="_blank">[Java] 의존성 주입(DI) 장점, 방법, 비교</a></li><li><a href="https://rlathfs.tistory.com/23" target="_blank">[Git] 이미 Push한 Commit 삭제하기</a></li><li><a href="https://rlathfs.tistory.com/22" target="_blank">[Git] IntelliJ에서 생성한 프로젝트 Github에 연결하기</a></li><li><a href="https://rlathfs.tistory.com/21" target="_blank">[PostgreSQL] Window에 PostgreSQL &amp; pgAdmin 4 설치하기</a></li><li><a href="https://rlathfs.tistory.com/20" target="_blank">[Git] Commit 메시지 수정하기</a></li>
         </ul>
         </div>
     
