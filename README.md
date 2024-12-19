@@ -51,7 +51,7 @@
 
 <h3>📕 Latest Blog Posts</h3>
 <ul>
-<li><a href="https://rlathfs.tistory.com/28" target="_blank">[React] 프로젝트 구동 방식</a></li><li><a href="https://rlathfs.tistory.com/27" target="_blank">[Vite] React + TypeScript 기반 프로젝트 생성하기</a></li><li><a href="https://rlathfs.tistory.com/26" target="_blank">[React] React와 React Native의 차이 비교</a></li><li><a href="https://rlathfs.tistory.com/25" target="_blank">[Java] PriorityQueue(우선순위 큐) 사용하기</a></li><li><a href="https://rlathfs.tistory.com/24" target="_blank">[Java] 의존성 주입(DI) 장점, 방법, 비교</a></li>
+<li><a href="https://rlathfs.tistory.com/29" target="_blank">[React] 컴포넌트에 대한 고찰</a></li><li><a href="https://rlathfs.tistory.com/28" target="_blank">[React] 프로젝트 구동 방식</a></li><li><a href="https://rlathfs.tistory.com/27" target="_blank">[Vite] React + TypeScript 기반 프로젝트 생성하기</a></li><li><a href="https://rlathfs.tistory.com/26" target="_blank">[React] React와 React Native의 차이 비교</a></li><li><a href="https://rlathfs.tistory.com/25" target="_blank">[Java] PriorityQueue(우선순위 큐) 사용하기</a></li>
         </ul>
         </div>
     
