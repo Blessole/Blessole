@@ -56,7 +56,7 @@
 
 <h3>📕 Latest Blog Posts</h3>
 <ul style="list-style: none">
-<li><a href="https://rlathfs.tistory.com/49" target="_blank">[IntelliJ] Project를 열었는데 폴더가 제대로 뜨지 않는 경우</a></li><li><a href="https://rlathfs.tistory.com/30" target="_blank">[React] Props, Event, State</a></li><li><a href="https://rlathfs.tistory.com/29" target="_blank">[React] 컴포넌트에 대한 고찰</a></li><li><a href="https://rlathfs.tistory.com/28" target="_blank">[React] 프로젝트 구동 방식</a></li><li><a href="https://rlathfs.tistory.com/27" target="_blank">[Vite] React + TypeScript 기반 프로젝트 생성하기</a></li>
+<li><a href="https://rlathfs.tistory.com/50" target="_blank">[Git] Local, Remote branch 이름 변경</a></li><li><a href="https://rlathfs.tistory.com/49" target="_blank">[IntelliJ] Project를 열었는데 폴더가 제대로 뜨지 않는 경우</a></li><li><a href="https://rlathfs.tistory.com/30" target="_blank">[React] Props, Event, State</a></li><li><a href="https://rlathfs.tistory.com/29" target="_blank">[React] 컴포넌트에 대한 고찰</a></li><li><a href="https://rlathfs.tistory.com/28" target="_blank">[React] 프로젝트 구동 방식</a></li>
         </ul>
         </div>
     
