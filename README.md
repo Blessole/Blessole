@@ -56,7 +56,7 @@
 
 <h3>📕 Latest Blog Posts</h3>
 <ul style="list-style: none">
-<li><a href="https://rlathfs.tistory.com/55" target="_blank">[Mac] 쌍자음 한번에 지우기</a></li><li><a href="https://rlathfs.tistory.com/54" target="_blank">[Mac] 맥북 스페이스바 마침표/점(.) 생기는거 막기</a></li><li><a href="https://rlathfs.tistory.com/53" target="_blank">[Architecture] 요즘 대세라는 'FSD 방법론' - 프론트엔드 프로젝트 아키텍처 디자인 방법론</a></li><li><a href="https://rlathfs.tistory.com/52" target="_blank">[Svelte] Vite + Svelte 프로젝트 생성하기</a></li><li><a href="https://rlathfs.tistory.com/51" target="_blank">[Git] Merge 병합 방법 정리 (fast-forward, 3-way, squash)</a></li>
+<li><a href="https://rlathfs.tistory.com/56" target="_blank">[Git] git config 설정</a></li><li><a href="https://rlathfs.tistory.com/55" target="_blank">[Mac] 쌍자음 한번에 지우기</a></li><li><a href="https://rlathfs.tistory.com/54" target="_blank">[Mac] 맥북 스페이스바 마침표/점(.) 생기는거 막기</a></li><li><a href="https://rlathfs.tistory.com/53" target="_blank">[Architecture] 요즘 대세라는 'FSD 방법론' - 프론트엔드 프로젝트 아키텍처 디자인 방법론</a></li><li><a href="https://rlathfs.tistory.com/52" target="_blank">[Svelte] Vite + Svelte 프로젝트 생성하기</a></li>
         </ul>
         </div>
     
