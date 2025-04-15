@@ -56,7 +56,7 @@
 
 <h3>📕 Latest Blog Posts</h3>
 <ul style="list-style: none">
-<li><a href="https://rlathfs.tistory.com/59" target="_blank">[JS] 실무에서 자주 사용하는 Javascript 문법</a></li><li><a href="https://rlathfs.tistory.com/58" target="_blank">[React] React Hook &quot;useEffect&quot; is called in function  에러 해결</a></li><li><a href="https://rlathfs.tistory.com/57" target="_blank">[React] .env 환경변수 사용법 (Vite / CRA 환경)</a></li><li><a href="https://rlathfs.tistory.com/56" target="_blank">[Git] git config 설정</a></li><li><a href="https://rlathfs.tistory.com/55" target="_blank">[Mac] 쌍자음 한번에 지우기</a></li>
+<li><a href="https://rlathfs.tistory.com/60" target="_blank">[Git] warning: user.name has multiple values 해결</a></li><li><a href="https://rlathfs.tistory.com/59" target="_blank">[JS] 실무에서 자주 사용하는 Javascript 문법</a></li><li><a href="https://rlathfs.tistory.com/58" target="_blank">[React] React Hook &quot;useEffect&quot; is called in function  에러 해결</a></li><li><a href="https://rlathfs.tistory.com/57" target="_blank">[React] .env 환경변수 사용법 (Vite / CRA 환경)</a></li><li><a href="https://rlathfs.tistory.com/56" target="_blank">[Git] git config 설정</a></li>
         </ul>
         </div>
     
